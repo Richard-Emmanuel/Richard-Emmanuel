@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Richard from nigeria 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Emmanuel&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Emmanuel&show_icons=true&theme=highcontrast)
 <!--
 
 **Richard-Emmanuel/Richard-Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
