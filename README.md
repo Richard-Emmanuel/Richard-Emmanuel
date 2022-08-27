@@ -30,11 +30,11 @@ I am Richard from nigeria
 </table>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Richard_Emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/wakatime?username=Richard_Emmanuel)](https://github.com/anuraghazra/github-readme-stats
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+(https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## Contact Me:
 
