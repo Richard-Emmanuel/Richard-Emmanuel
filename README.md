@@ -20,9 +20,9 @@ I am Richard from nigeria
     <td>
        <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Richard-Emmanuel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Emmanuel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
+    </td> -->
     
   </tr>
 </table>
