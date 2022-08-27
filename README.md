@@ -30,12 +30,6 @@ I am Richard from nigeria
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Richard-Emmanuel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-
 
 
 
