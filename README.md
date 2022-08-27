@@ -23,12 +23,12 @@ I am Richard from nigeria
     <td>
       <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Emmanuel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
-    <td>
-       <a href="http://www.github.com/Richard-Emmanuel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard-Emmanuel&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
     
   </tr>
 </table>
+ <td>
+       <a href="http://www.github.com/Richard-Emmanuel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard-Emmanuel&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
 
 
 ![Richard streak](https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
