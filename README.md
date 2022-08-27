@@ -30,7 +30,7 @@ I am Richard from nigeria
 </table>
 
 
-[!Richard wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Richard_Emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+![Richard wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Richard_Emmanuel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
