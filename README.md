@@ -20,18 +20,18 @@ I am Richard from nigeria
     <td>
        <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Richard-Emmanuel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
-    <td>
+<!--     <td>
       
     <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Richard-Emmanuel&langs_count=8&count_private=true&theme=react&hide_border=true&card_width=450px&layout=compact&bg_color=1d2a3a"/></a>
-      </td>
+      </td> -->
   </tr>
     
 </table>
 
 
- <td>
+<!--  <td>
        <a href="http://www.github.com/Richard-Emmanuel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard-Emmanuel&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
+    </td> -->
 
 
 
