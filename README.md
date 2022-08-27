@@ -1,8 +1,5 @@
 ### Hi there 👋
 I am Richard from nigeria 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Emmanuel&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Emmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Github Stats:
 
