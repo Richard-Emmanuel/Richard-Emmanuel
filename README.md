@@ -37,7 +37,7 @@ I am Richard from nigeria
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-##Contact Me:
+## Contact Me:
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/favour-faiyetole-99a438229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
