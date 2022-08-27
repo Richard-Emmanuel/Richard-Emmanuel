@@ -22,9 +22,10 @@ I am Richard from nigeria
     </td>
     <td>
       
-    <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Emmanuel&langs_count=8&count_private=true&theme=react&hide_border=true&card_width=450px&layout=compact&bg_color=1d2a3a"/></a>
+    <a href="https://github.com/Richard-Emmanuel"><img alt="Richard-Emmanuel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Richard-Emmanuel&langs_count=8&count_private=true&theme=react&hide_border=true&card_width=450px&layout=compact&bg_color=1d2a3a"/></a>
+      </td>
   </tr>
-    </td>
+    
 </table>
 
 
@@ -33,9 +34,12 @@ I am Richard from nigeria
     </td>
 
 
+
 ![Richard streak](https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ![Richard wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Richard_Emmanuel)
+
+
 
 ## Contact Me:
 
