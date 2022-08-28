@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=Richard-Emmanuel&color=green&style=flat-square&label=Profile+Views" />
+</p>
+
 ### Hi there 👋
 I am Richard from nigeria 
 
@@ -43,18 +47,27 @@ I am Richard from nigeria
 ## Contact Me:
 
 <p align="center">
+<a href="mailto:richardnuelofficial@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href = "https://www.linkedin.com/in/richard-emmanuel"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/therichardDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iamrichardemmanuel"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-
-
-<a href="mailto:amankr1619@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+	<a href="https://github.com/amankrx/portfolio">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/amankrx">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/Healthsy">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/Health">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Richard-Emmanuel&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+
