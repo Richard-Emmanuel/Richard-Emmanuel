@@ -55,6 +55,8 @@ I am Richard from nigeria
 <a href = "https://www.instagram.com/iamrichardemmanuel"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
+
+## Projects:
 <p align="center">
 	<a href="https://github.com/amankrx/portfolio">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
