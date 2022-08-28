@@ -56,5 +56,5 @@ I am Richard from nigeria
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
+	<img src="https://komarev.com/ghpvc/?username=Richard-Emmanuel&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
