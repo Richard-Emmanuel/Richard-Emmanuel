@@ -37,7 +37,7 @@ I am Richard from nigeria
   </tr>
 </table>
 
-
+<hr/>
 
 ![Richard streak](https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 ![Richard wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Richard_Emmanuel&theme=dark&show_icons=true)
