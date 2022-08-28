@@ -50,7 +50,7 @@ I am Richard from nigeria
 <a href="mailto:richardnuelofficial@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href = "https://www.linkedin.com/in/richard-emmanuel"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
+<a href = "https://www.linkedin.com/in/richard-emmanuel"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://twitter.com/therichardDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iamrichardemmanuel"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
