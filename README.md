@@ -3,6 +3,9 @@ I am Richard from nigeria
 
 
 ## Languages and Tools.
+<table>
+  
+</table>  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,3 +49,16 @@ I am Richard from nigeria
 <a href = "https://twitter.com/therichardDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iamrichardemmanuel"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
+
+
+<table>
+  <tr>
+    <td>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</td>
+    <td>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</td>
+    <td>
+      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    </td>
+  </tr>
+  <tr></tr>
+</table>
