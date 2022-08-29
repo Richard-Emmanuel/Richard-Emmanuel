@@ -55,7 +55,7 @@ I am Richard from nigeria
 
 
 ## Projects:
-<p>
+<p display="flex" justify-content="center">
 	<a href="https://github.com/amankrx/portfolio">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=blue-green&show_icons=true" />
 	</a>
