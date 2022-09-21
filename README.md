@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋
-I am Richard from nigeria 
+I'm a full-stack developer, although a creative one, with a passion for learning and sharing information.
 
 
 ## Languages and Tools.
