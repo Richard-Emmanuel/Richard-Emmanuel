@@ -52,7 +52,5 @@ I'm a full-stack developer, although a creative one, with a passion for learning
 </p>
 
 
-## Projects:
-
 
 
