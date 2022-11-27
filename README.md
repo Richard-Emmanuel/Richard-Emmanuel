@@ -53,14 +53,6 @@ I'm a full-stack developer, although a creative one, with a passion for learning
 
 
 ## Projects:
-<p align="center">
-	<a href="https://github.com/amankrx/portfolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=blue-green&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/amankrx">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=blue-green&show_icons=true" />
-	</a>
-	
-</p>
+
 
 
