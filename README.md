@@ -46,9 +46,9 @@ Experienced Frontend Developer with a strong proficiency in React and a passion 
 
 <p align="center">
 <a href="mailto:richardnuelofficial@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://www.linkedin.com/in/richard-emmanuel"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.linkedin.com/in/richard-emmanuel"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <a href = "https://twitter.com/therichardDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iamrichardemmanuel"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.instagram.com/iamrichardemmanuel"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 
 
