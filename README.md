@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋
-I'm a full-stack developer, although a creative one, with a passion for learning and sharing information.
+Experienced Frontend Developer with a strong proficiency in React and a passion for creating dynamic and engaging user interfaces. With a solid understanding of HTML, CSS, and JavaScript, I specialize in building robust web applications that deliver seamless user experiences. My keen eye for design and attention to detail allow me to produce visually stunning interfaces that are both functional and intuitive. Whether working independently or as part of a team, I thrive in fast-paced environments, continuously adapting to new technologies and industry trends. My goal is to create scalable and maintainable code that exceeds client expectations and contributes to the success of the project
 
 
 ## Languages and Tools.
