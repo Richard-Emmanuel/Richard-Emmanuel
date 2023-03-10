@@ -26,7 +26,6 @@ Experienced Frontend Developer with a strong proficiency in React and a passion 
   </tr>
 </table>
 <hr/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra](https://github.com/Richard-Emmanuel/)/github-readme-stats)
 
 ## Contact Me:
 
