@@ -29,10 +29,7 @@ Experienced Frontend Developer with a strong proficiency in React and a passion 
     </td>
   </tr>
 </table>
-
 <hr/>
-
-![Richard streak](https://activity-graph.herokuapp.com/graph?username=Richard-Emmanuel&bg_color=blue-green&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) <hr/>
 
 
 ## Contact Me:
