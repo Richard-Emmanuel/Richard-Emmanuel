@@ -7,7 +7,7 @@ Experienced Frontend Developer with a strong proficiency in React and a passion 
 
 
 ## Languages and Tools.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,git,figma,mongodb&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,git,figma,mongodb&perline=4)](https://skillicons.dev)
   
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,django,bootstrap,tailwind&perline=2)](https://skillicons.dev)
