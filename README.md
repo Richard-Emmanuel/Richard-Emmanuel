@@ -1,7 +1,3 @@
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Richard-Emmanuel&color=green&style=flat-square&label=Profile+Views" />
-</p>
-
 ### Hi there 👋
 Experienced Frontend Developer with a strong proficiency in React and a passion for creating dynamic and engaging user interfaces. With a solid understanding of HTML, CSS, and JavaScript, I specialize in building robust web applications that deliver seamless user experiences. My keen eye for design and attention to detail allow me to produce visually stunning interfaces that are both functional and intuitive. Whether working independently or as part of a team, I thrive in fast-paced environments, continuously adapting to new technologies and industry trends. My goal is to create scalable and maintainable code that exceeds client expectations and contributes to the success of the project
 
@@ -30,7 +26,7 @@ Experienced Frontend Developer with a strong proficiency in React and a passion 
   </tr>
 </table>
 <hr/>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra](https://github.com/Richard-Emmanuel/)/github-readme-stats)
 
 ## Contact Me:
 
