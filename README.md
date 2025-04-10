@@ -3,6 +3,12 @@ Experienced Frontend Developer with a strong proficiency in React and a passion 
 
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/{Richard-Emmanuel}/badges/community)](https://community.vaunt.dev/board/{Richard-Emmanuel})
 ## Languages and Tools.
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{Richard-Emmanuel}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,git,figma,mongodb&perline=4)](https://skillicons.dev)
   
 ## Frameworks
